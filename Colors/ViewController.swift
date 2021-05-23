@@ -57,7 +57,5 @@ class ViewController: UIViewController {
 }
   
     
-//    adjustedView.backgroundColor = UIColor.init(red: CGFloat(redSlider.value), green: CGFloat(greenSlider.value), blue: CGFloat(blueSlider.value), alpha: CGFloat(alphaSlider.value))
-//}
 
 
